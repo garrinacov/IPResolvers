@@ -4,6 +4,9 @@
     This script performs reverse DNS lookups on a list of IPs using DNS resolvers
     from a separate file, with multi-threading support.
 
+![image](https://github.com/user-attachments/assets/acee894e-93d7-4144-b5b4-dd12327ac17d)
+
+
     Usage:
     python script.py [OPTIONS]
 
