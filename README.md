@@ -1,8 +1,9 @@
- IP to DNS Resolution Script with Threading
+# IP to DNS Resolution Script with Threading
 
-  Description:
-    This script performs reverse DNS lookups on a list of IPs using DNS resolvers
-    from a separate file, with multi-threading support.
+---
+
+# Description
+This script performs reverse DNS lookups on a list of IPs using DNS resolvers from a separate file, with multi-threading support.
 
 ![image](https://github.com/user-attachments/assets/acee894e-93d7-4144-b5b4-dd12327ac17d)
 
